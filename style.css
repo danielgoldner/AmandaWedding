@@ -1,0 +1,108 @@
+html
+{
+	background: url(pandakiss.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: auto;
+	height: auto;
+}
+
+html#about
+{
+	background: url(woodbg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: auto;
+	height: auto;
+}
+
+a:hover
+{
+	color: black;
+}
+
+div.photo img
+{
+	height: 200px;
+	width: 180px;
+	border-radius: 100%;	
+}
+
+div.photo p
+{
+	display: inline-block;
+	font: 16px 'Forum', cursive;
+	background-color: rgba(192, 192, 192, 0.65);
+	border-radius: 5px;
+	width: 40em;
+	height: 20em;
+}
+
+div#title
+{
+	font: 50px 'Monoton', cursive;
+	line-height: 20px;
+	color: white;
+	display: inline-block;
+}
+
+div#text1
+{
+	font: 16px 'Forum', cursive;
+	background-color: rgba(192, 192, 192, 0.65);
+	border-radius: 5px;
+	width: 40em;
+	height: 20em;
+	padding: 10px 5px 5px;
+	margin: auto auto 10px;
+}
+
+div#text2
+{
+	font: 24px 'Sacramento', cursive;
+	background-color: rgba(192, 192, 192, 0.65);
+	border-radius: 5px;
+	width: 40em;
+	height: 20em;
+	margin: auto;
+	padding: 5px;
+}
+
+a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.nav
+{
+	position: absolute;
+	border-style: solid;
+	border-color: white;
+	display: inline-block;
+	width: 380px;
+	border-radius: 10px;
+	background-color: silver;
+	top: 30px;
+	left: 550px;
+}
+
+.nav .navbutton
+{
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
